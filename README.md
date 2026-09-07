@@ -23,7 +23,7 @@ temperature, soil health), resource usage (fertilizer, irrigation, water), and e
 - State-wise and crop-wise seasonal comparison
 
 ## Tools Used
-Python, Pandas, NumPy, Matplotlib, Seaborn, Jupyter Notebook
+Python, Pandas, NumPy, Matplotlib, Seaborn, VS Code
 
 ## Key Findings
 - Kharif season shows the highest rainfall and yield; Zaid shows the lowest water efficiency
